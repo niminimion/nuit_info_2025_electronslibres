@@ -9,8 +9,14 @@
   <a href="https://nuitinfoelctronslibres-8614n145k-niminimions-projects.vercel.app/">
     <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-red?style=for-the-badge&logo=vercel" alt="Live Demo" />
   </a>
+  
+  <p>
+    <strong>Link:</strong> <br/>
+    <a href="https://nuitinfoelctronslibres-8614n145k-niminimions-projects.vercel.app/">
+      https://nuitinfoelctronslibres-8614n145k-niminimions-projects.vercel.app/
+    </a>
+  </p>
 
-  <br />
   <br />
 
   [![Built with React](https://img.shields.io/badge/Built%20with-React-blue?style=flat-square&logo=react)](https://react.dev)
