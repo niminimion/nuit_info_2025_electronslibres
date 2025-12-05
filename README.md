@@ -6,9 +6,16 @@
 
   <br />
 
-  [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
-  [![React](https://img.shields.io/badge/Built%20with-React-blue?style=for-the-badge&logo=react)](https://react.dev)
-  [![Tailwind](https://img.shields.io/badge/Styled%20with-Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss)](https://tailwindcss.com)
+  <a href="https://nuitinfoelctronslibres-8614n145k-niminimions-projects.vercel.app/">
+    <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-red?style=for-the-badge&logo=vercel" alt="Live Demo" />
+  </a>
+
+  <br />
+  <br />
+
+  [![Built with React](https://img.shields.io/badge/Built%20with-React-blue?style=flat-square&logo=react)](https://react.dev)
+  [![Tailwind CSS](https://img.shields.io/badge/Styled%20with-Tailwind-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
+  [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini-orange?style=flat-square&logo=google)](https://deepmind.google/technologies/gemini/)
 </div>
 
 ---
@@ -21,15 +28,44 @@ Notre mission : sensibiliser à l'impact écologique du numérique et démontrer
 
 Dans un futur dystopique où "Big Tech" oblige les écoles à jeter leur matériel tous les ans, vous incarnez la résistance. NIRD OS est votre arme pour reprendre le contrôle.
 
-### ✨ Fonctionnalités
-Le système comprend plusieurs applications interactives :
+### 🎮 Guide des Jeux & Fonctionnalités
 
-*   **📈 NIRD Tycoon** : Un jeu de gestion stratégique. Gérez le budget d'un lycée, réparez le matériel, installez des logiciels libres et résistez aux audits des GAFAM.
-*   **🛡️ Tower Defense** : Protégez les données des étudiants contre les vagues de "Bloatwares", "Trackers" et "Virus". Utilisez des tourelles comme "Tux" (Linux) et "Firewall".
-*   **🎵 NIRD Beats** : Un lecteur de musique intégré diffusant des pistes Lo-Fi / 8-bit pour accompagner votre session de code.
-*   **💻 Terminal** : Une interface en ligne de commande authentique. Tapez `help` pour commencer. Connectée à une **IA (Gemini)** pour répondre à vos questions sur l'écologie numérique.
-*   **🐍 Hidden Snake** : Un easter egg classique. Tapez `snake` dans le terminal pour le débloquer.
-*   **⚙️ Paramètres** : Informations système, crédits de l'équipe et option de réinitialisation.
+#### 1. 📈 NIRD Tycoon (Jeu de Gestion)
+Gérez le budget informatique d'un lycée au bord de la faillite.
+*   **But** : Atteindre 100% d'Autonomie avant que le Budget ne tombe à 0.
+*   **Gameplay** : 
+    *   Le temps passe (Jours). Votre budget diminue à cause des licences propriétaires.
+    *   Achetez des améliorations dans 4 zones : Administration, Salle Info, Serveurs, Repair Café.
+    *   **Stratégie** : Investissez dans le "Logiciel Libre" pour réduire la dette technique, ou dans le "Repair Café" pour prolonger la vie du matériel.
+    *   **Événements** : Attention aux audits surprises des GAFAM ou aux pannes matérielles !
+
+#### 2. 🛡️ Tower Defense (Action)
+Protégez les données des étudiants contre les menaces numériques.
+*   **Ennemis** : 
+    *   *Trackers* (Rapides et faibles)
+    *   *Bloatwares* (Lents et résistants)
+    *   *License Boss* (Le boss final)
+*   **Tourelles** :
+    *   *Tux Turret* (Linux) : Tir rapide, dégâts moyens.
+    *   *Firewall* : Ralentit les ennemis.
+    *   *Recycler* : Génère de l'argent à chaque vague.
+*   **Comment jouer** : Cliquez sur la grille pour placer vos défenses. Gérez votre argent intelligemment.
+
+#### 3. 💻 Terminal & IA
+Une véritable interface en ligne de commande connectée à une IA.
+*   **Commandes** : Tapez `help` pour voir la liste.
+*   **AI Chat** : Posez n'importe quelle question sur l'écologie numérique (ex: "Pourquoi utiliser Linux ?"), l'IA (Gemini) vous répondra.
+
+#### 4. 🐍 Hidden Snake (Secret)
+Un easter egg caché pour les vrais hackers.
+*   **Comment le trouver ?** Ouvrez l'application **Terminal**, tapez la commande `snake` ou `python` et appuyez sur Entrée.
+*   **Contrôles** : Utilisez les flèches directionnelles du clavier pour manger les pommes (pommes vertes = open source !).
+
+#### 5. 🎵 NIRD Beats & ⚙️ Paramètres
+*   **Musique** : Un lecteur audio intégré avec des visuels rétro et des pistes Lo-Fi relaxantes. Contrôle du volume via la barre des tâches.
+*   **Paramètres** : Changez la langue (FR/EN/ZH), consultez les crédits de l'équipe ou réinitialisez le système.
+
+---
 
 ### 👥 L'Équipe : ELECTRONS LIBRES
 *   **KEDJINDA Pidenam Bernice**
@@ -37,20 +73,6 @@ Le système comprend plusieurs applications interactives :
 *   **MOTTO Harley**
 *   **CAI Xinran**
 *   **LEE Jia Qi**
-
-### 🚀 Installation
-Pour lancer le projet localement :
-
-```bash
-# 1. Cloner le projet
-git clone <votre-repo-url>
-
-# 2. Installer les dépendances
-npm install
-
-# 3. Lancer le serveur de développement
-npm run dev
-```
 
 ---
 
@@ -62,15 +84,42 @@ Our mission: raise awareness about the ecological impact of digital technology a
 
 In a dystopian future where "Big Tech" forces schools to discard hardware every year, you are the resistance. NIRD OS is your weapon to take back control.
 
-### ✨ Features
-The system features several interactive applications:
+### 🎮 Games & Features Guide
 
-*   **📈 NIRD Tycoon**: A strategic management game. Manage a high school's budget, repair hardware, install open-source software, and resist Big Tech audits.
-*   **🛡️ Tower Defense**: Protect student data from waves of "Bloatwares", "Trackers", and "Viruses". Deploy turrets like "Tux" (Linux) and "Firewall".
-*   **🎵 NIRD Beats**: An integrated music player streaming Lo-Fi / 8-bit tracks to vibe with your coding session.
-*   **💻 Terminal**: An authentic command-line interface. Type `help` to start. Connected to **AI (Gemini)** to answer your questions about digital sustainability.
-*   **🐍 Hidden Snake**: A classic easter egg. Type `snake` in the terminal to unlock.
-*   **⚙️ Settings**: System info, team credits, and factory reset options.
+#### 1. 📈 NIRD Tycoon (Strategy)
+Manage the IT budget of a high school on the brink of bankruptcy.
+*   **Goal**: Reach 100% Autonomy before Budget hits 0.
+*   **Gameplay**:
+    *   Time passes (Days). Your budget drains due to proprietary licenses.
+    *   Buy upgrades in 4 zones: Admin, Lab, Server Room, Repair Café.
+    *   **Strategy**: Invest in "Open Source Policy" to reduce tech debt, or "Repair Café" to fix old hardware.
+    *   **Events**: Watch out for surprise audits from Big Tech or hardware failures!
+
+#### 2. 🛡️ Tower Defense (Action)
+Defend student data from digital threats.
+*   **Enemies**: 
+    *   *Trackers* (Fast, weak)
+    *   *Bloatwares* (Slow, tanky)
+    *   *License Boss* (Final boss)
+*   **Towers**:
+    *   *Tux Turret* (Linux): Fast fire rate.
+    *   *Firewall*: Slows enemies down.
+    *   *Recycler*: Generates money each wave.
+*   **How to play**: Click on the grid to place towers. Manage your credits wisely.
+
+#### 3. 💻 Terminal & AI
+A real command-line interface connected to an AI.
+*   **Commands**: Type `help` to see the list.
+*   **AI Chat**: Ask any question about digital sustainability (e.g., "Why use Linux?"), and the AI (Gemini) will answer.
+
+#### 4. 🐍 Hidden Snake (Secret)
+A hidden easter egg for true hackers.
+*   **How to find it?**: Open the **Terminal** app, type `snake` or `python`, and hit Enter.
+*   **Controls**: Use arrow keys to eat the apples (green apples = open source!).
+
+#### 5. 🎵 NIRD Beats & ⚙️ Settings
+*   **Music**: Integrated audio player with retro visuals and chill Lo-Fi tracks. Volume control via the taskbar.
+*   **Settings**: Change language (FR/EN/ZH), view team credits, or factory reset the system.
 
 ### 👥 The Team: ELECTRONS LIBRES
 *   **KEDJINDA Pidenam Bernice**
@@ -79,23 +128,9 @@ The system features several interactive applications:
 *   **CAI Xinran**
 *   **LEE Jia Qi**
 
-### 🚀 Installation
-To run the project locally:
-
-```bash
-# 1. Clone the repo
-git clone <your-repo-url>
-
-# 2. Install dependencies
-npm install
-
-# 3. Start development server
-npm run dev
-```
-
 ---
 
 <div align="center">
-  <p>Made with ❤️ for Nuit de l'Info 2024</p>
+  <p>Made with ❤️ for Nuit de l'Info 2025</p>
   <p><em>Powered by React, Vite, Lucide, and Google Gemini AI.</em></p>
 </div>
