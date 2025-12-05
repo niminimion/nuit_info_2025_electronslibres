@@ -71,14 +71,38 @@ Un easter egg caché pour les vrais hackers.
 *   **Musique** : Un lecteur audio intégré avec des visuels rétro et des pistes Lo-Fi relaxantes. Contrôle du volume via la barre des tâches.
 *   **Paramètres** : Changez la langue (FR/EN/ZH), consultez les crédits de l'équipe ou réinitialisez le système.
 
----
-
 ### 👥 L'Équipe : ELECTRONS LIBRES
 *   **KEDJINDA Pidenam Bernice**
 *   **KAMENDE SIANI Halexya**
 *   **MOTTO Harley**
 *   **CAI Xinran**
 *   **LEE Jia Qi**
+
+### 🚀 Installation (Local)
+Pour lancer le projet sur votre machine :
+
+1.  **Cloner le projet**
+    ```bash
+    git clone https://github.com/niminimion/nuit_info_2025_electronslibres.git
+    cd nuit_info_2025_electronslibres
+    ```
+
+2.  **Installer les dépendances**
+    ```bash
+    npm install
+    ```
+
+3.  **Configurer l'IA (Clé API)**
+    *   Créez un fichier `.env.local` à la racine du projet.
+    *   Ajoutez votre clé API Gemini (obtenue sur Google AI Studio) :
+    ```
+    VITE_GEMINI_API_KEY=votre_clé_api_ici
+    ```
+
+4.  **Lancer le serveur**
+    ```bash
+    npm run dev
+    ```
 
 ---
 
@@ -133,6 +157,32 @@ A hidden easter egg for true hackers.
 *   **MOTTO Harley**
 *   **CAI Xinran**
 *   **LEE Jia Qi**
+
+### 🚀 Installation (Local)
+To run the project on your machine:
+
+1.  **Clone the repo**
+    ```bash
+    git clone https://github.com/niminimion/nuit_info_2025_electronslibres.git
+    cd nuit_info_2025_electronslibres
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Configure AI (API Key)**
+    *   Create a `.env.local` file in the root directory.
+    *   Add your Gemini API key (from Google AI Studio):
+    ```
+    VITE_GEMINI_API_KEY=your_api_key_here
+    ```
+
+4.  **Start server**
+    ```bash
+    npm run dev
+    ```
 
 ---
 
